@@ -1,7 +1,7 @@
 img.rot {
   animation: 1s linear 0s normal none infinite running rot;
   -webkit-animation: 1s linear 0s normal none infinite running rot;
-  width: 100px;
+  width: 1000px;
 }
 @keyframes rot {
   0% {
@@ -19,4 +19,3 @@ img.rot {
     transform: rotate(360deg);
   }
 }
-<img class="rot" src="https://boroveen.github.io/jpeg/file.png">
