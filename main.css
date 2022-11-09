@@ -1,0 +1,17 @@
+.window {
+	width: 7%;
+	height: 42%;
+	bottom: 0px;
+	right: 0px;
+	position: absolute;
+	background-color: rgba(0,0,0,.6);
+	backdrop-filter: blur(10px);
+}
+
+.fa{
+	color: #FFFFFF;
+	transition: 0.5s linear;
+}
+.fa:hover{
+	color: FF0000;
+}
