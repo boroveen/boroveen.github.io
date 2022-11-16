@@ -1,0 +1,25 @@
+body{
+	background: #000000;
+	display: flex;
+	justify-content: center;
+}
+.window{
+	background: #111111;
+	width: 99%;
+	height: 101%;
+	top: -1%;
+	position: fixed;
+	border: 2px dashed #FF0000;
+}
+.windowAGAIN{
+	background: #11111100;
+	width: 50%;
+	height: 110%;
+	right: 25%;
+	top: -1%;
+	position: fixed;
+}
+.text{
+	color: #FF0000;
+	text-align: center
+}
